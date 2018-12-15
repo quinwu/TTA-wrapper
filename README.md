@@ -1,2 +1,3 @@
 # TTA-wrapper
-Test Time image Augmentation (TTA) wrapper for PyTorch model.
+Test time augmnentation wrapper for PyTorch image segmentation and classification models.
+
